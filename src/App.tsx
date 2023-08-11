@@ -150,7 +150,7 @@ const LeftSection = () => {
     <div
       style={{
         backgroundBlendMode: "overlay",
-        backgroundImage: `url("/images/sunny.jpg")`,
+        backgroundImage: `url("https://raw.githubusercontent.com/atharvamalji/iitm-internship-assignment/main/public/images/sunny.jpg")`,
         backgroundPosition: "bottom right",
         backgroundSize: "cover",
       }}
